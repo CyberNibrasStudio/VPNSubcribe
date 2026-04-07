@@ -3,3 +3,4 @@ vless://cefb132e-60f8-4550-b5af-2c49caeb0731@hocyb.strangled.net:53631?type=tcp&
 vless://23dbb12c-14ff-4bb3-a21e-8baca2be8d59@hocyb.strangled.net:43032?type=tcp&encryption=none&security=reality&pbk=CEmDzVhEB_yP8pe4NGAJzljcmlnn43kmD1H41-yTMWo&fp=chrome&sni=www.youtube.com&sid=5f148271627723f0&spx=%2F#Three-vp2lng15
 vless://3c595e45-ec05-4b48-8509-b66665dcff45@hocyb.strangled.net:35482?type=tcp&encryption=mlkem768x25519plus.native.0rtt.uC5xAGzmxw4j9QsTmD9zyTDpjiR4ku2a3-Q6iUPwnhQ&security=reality&pbk=82tYW_A2zCgPEgj7DvOtBWdTxS4ZitIfe7UBggPGhRM&fp=chrome&sni=hocyb.strangled.net&sid=da3c33ef&spx=%2F#Four-ihd46pei
 hy2://Admin:d3fd393b935ec264efd4874bed0f0c12@hocyb.strangled.net:443?insecure=1&sni=hocyb.strangled.net#SenkoHys
+tuic://454ec961-1483-48de-a200-fde6c67ce917:bae0ccd0ae47e23c2db08e2f02d81e5a@hocyb.strangled.net:8443?congestion_control=bbr&alpn=h3&sni=hocyb.strangled.net&udp_relay_mode=native#SenkoTUIC
